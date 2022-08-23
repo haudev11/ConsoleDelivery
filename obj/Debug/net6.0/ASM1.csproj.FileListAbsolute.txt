@@ -1,0 +1,15 @@
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ASM1.exe
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ASM1.deps.json
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ASM1.runtimeconfig.json
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ASM1.dll
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ref\ASM1.dll
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\bin\Debug\net6.0\ASM1.pdb
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.csproj.AssemblyReference.cache
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.AssemblyInfoInputs.cache
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.AssemblyInfo.cs
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.csproj.CoreCompileInputs.cache
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.dll
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ref\ASM1.dll
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.pdb
+F:\Greenwich\1618_ProgrammingC#\asm1\ASM1\ASM1\obj\Debug\net6.0\ASM1.genruntimeconfig.cache
